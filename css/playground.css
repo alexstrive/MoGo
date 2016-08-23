@@ -1,0 +1,28 @@
+.container {
+  margin-top: 20px;
+}
+.img {
+  padding: 0;
+}
+.img .img-wrapper {
+  padding: 5px;
+}
+.img .img-wrapper:hover {
+  padding-left: 0;
+  padding-top: 0;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+.img .img-wrapper .img-bg {
+  opacity: 1 !important;
+  position: absolute;
+  padding: 0;
+  height: 50%;
+  background-image: linear-gradient(to bottom, rgba(243,129,129,0.9), rgba(252,227,138,0.9));
+}
+.img .img-wrapper .img-bg:hover {
+  opacity: 1;
+}
+.img .img-wrapper img:hover {
+  opacity: 0.3;
+}
