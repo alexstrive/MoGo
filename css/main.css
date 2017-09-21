@@ -52,7 +52,7 @@
 }
 .item blockquote p {
   padding: 0 10px;
-  font-family: "Roboto Light Italic";
+  font-family: "Roboto";
   font-style: italic;
   font-weight: 100;
   font-size: 24px;
@@ -295,7 +295,7 @@ section .accordion .panel .panel-heading .panel-title a img {
   margin-right: 15px;
 }
 section .accordion .panel .panel-body {
-  font-family: "Roboto Light Italic";
+  font-family: "Roboto";
   font-style: italic;
   font-size: 15px;
   color: #a0a0a0;
@@ -317,7 +317,7 @@ section h3 {
   font-weight: bold;
 }
 section p {
-  font-family: "Roboto Regular" !important;
+  font-family: "Roboto" !important;
   font-size: 15px;
   color: #999;
 }
@@ -389,7 +389,7 @@ section p {
   margin: 0 0 10px;
 }
 #features .right-side p {
-  font-family: "Roboto Regular";
+  font-family: "Roboto";
   font-size: 15px;
 }
 #unique-design {
@@ -433,14 +433,14 @@ section p {
 }
 #our-clients-wrap #our-clients .item-feedback h5 {
   font-size: 14px;
-  font-family: "Roboto Light Italic";
+  font-family: "Roboto";
   font-style: italic;
   font-weight: 100;
   margin: 0 0 15px;
 }
 #our-clients-wrap #our-clients .item-feedback p {
   font-size: 15px;
-  font-family: "Roboto Regular";
+  font-family: "Roboto";
 }
 #our-clients-wrap #our-clients .item-feedback .delimiter-phrase {
   margin: 15px 0 15px;
@@ -493,7 +493,7 @@ footer #instagram .images-row .col-xs-4 {
 footer #instagram .link {
   margin-top: 20px;
   font-size: 13px;
-  font-family: "Roboto Light Italic";
+  font-family: "Roboto";
   font-style: italic;
   color: #a0a0a0;
   padding: 0;
@@ -524,7 +524,7 @@ footer #main-info h2 {
 }
 footer #main-info p {
   margin: 0 0 40px;
-  font-family: "Roboto Regular";
+  font-family: "Roboto";
   font-size: 15px;
   color: #999;
 }
@@ -539,13 +539,13 @@ footer #main-info hr {
 }
 footer #main-info small {
   font-size: 15px;
-  font-family: "Roboto Light Italic";
+  font-family: "Roboto";
   font-weight: normal;
   font-style: italic;
   color: #ccc;
 }
 footer #main-info small span {
-  font-family: "Roboto Light Italic";
+  font-family: "Roboto";
   font-weight: normal;
   margin-left: 10px;
   font-size: 18px;
@@ -558,7 +558,7 @@ footer #main-info .subscribe {
 footer #main-info .subscribe input {
   width: 40%;
   color: #000;
-  font-family: "Roboto Light Italic";
+  font-family: "Roboto";
   font-style: italic;
   padding: 10px 10px;
   border: 1px solid #ccc;
